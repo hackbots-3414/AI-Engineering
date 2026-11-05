@@ -9,9 +9,10 @@ Students and mentors are learning this together. The goal isn't just working cod
 ```
 AI-Engineering/
 ├── README.md                              ← you are here: what the repo is and how we work
-├── TEMPLATE-ai-engineering-notebook.md    ← the notebook template and how to fill it in
+├── HOWTO-ai-engineering-notebook.md       ← how to name, fill in, and refine your notebook
+├── TEMPLATE-ai-engineering-notebook.md    ← the short entry sketch you copy for each challenge
 ├── notebooks/                             ← one AI Engineering Notebook per student
-├── prompt-library/                        ← reusable prompt pieces gathered from notebook entries
+├── prompt-library/                        ← standard AI instructions + reusable prompt pieces
 └── tools/                                 ← small non-robot tools, until one earns its own repo
 ```
 
@@ -22,7 +23,7 @@ AI-Engineering/
 
 ## Getting started
 
-Everything about **naming your notebook, filling in entries, and what each section means** lives in [`TEMPLATE-ai-engineering-notebook.md`](TEMPLATE-ai-engineering-notebook.md). That file is the source of truth, so read it first. This README covers only how the repo and the workflow fit together.
+Everything about **naming your notebook, filling in entries, and what each section means** lives in [`HOWTO-ai-engineering-notebook.md`](HOWTO-ai-engineering-notebook.md). That file is the source of truth, so read it first. [`TEMPLATE-ai-engineering-notebook.md`](TEMPLATE-ai-engineering-notebook.md) is the short sketch you copy for each entry. This README covers only how the repo and the workflow fit together.
 
 ## Suggested workflow
 
@@ -30,7 +31,7 @@ Everything about **naming your notebook, filling in entries, and what each secti
 
 1. Clone this repo, or open it in GitHub Codespaces.
 2. Create a branch for your notebook.
-3. Copy the template into `notebooks/`, renaming it as the template header describes.
+3. Copy the template into `notebooks/`, renaming it as the HOWTO describes.
 4. Commit, push, and open a pull request. A mentor merges it, and your notebook now exists on `main`.
 
 ### For each challenge
