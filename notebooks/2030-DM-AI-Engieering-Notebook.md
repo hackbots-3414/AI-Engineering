@@ -18,6 +18,7 @@ put code in here: https://github.com/hackbots-3414/2027_Preseason.git
  - Compatible with CTRE
  - Uses Kraken x60 in all 4 drive motors
  - Uses Kraken x45 in all 4 steer motors
+ - Start a new folder in the project and name it the name of the project +"MADE BY AI"
 
 
 ### Behavior
