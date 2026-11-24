@@ -74,11 +74,19 @@ Here are the Best practices for our Team: https://therekrab.github.io/frc-progra
 
 ## Outcome
 - **Prompt sent:** [chat link] · **Produced:** [PR / files] · **First try?** · **Follow-ups:** · **Time:** 48 seconds
-- **Pluses:** 
+- **Pluses:**
+  - Converted all Xbox Bindings to PS5 bindings
+  - Didn't affect the rest of the Program
+  - Elevator Subsystem was not effected 
 - **Deltas:** 
-- **AI mistakes caught:** 
+  - Didn't Create any folders for the changes, and changed it in the document
+  - No Version control there
+- **AI mistakes caught:**
+  - N/A
 - **What I learned:** 
+  - Learned that you have to be very specific, and make sure that the instructions aredetailed as possible
 - **Prompt lessons:** 
+  - - Learned that you have to be very specific, and make sure that the instructions aredetailed as possible
 
 ## Mentor Review
 - **Reviewer / date:** · **Comments:** 
