@@ -1,6 +1,6 @@
 # 2026-11-23 — Create initial robot project 
 
-**Author(s): DM** · **Type:** New · **Project:** Robot · **Prompt run by:** · **AI & model:** · **PR:** · **Status:** Drafting
+**Author(s): DM** · **Type:** New · **Project:** Robot · **Prompt run by:** MrZ· **AI & model:** Opus 5.5 High· **PR:** · **Status:** Drafting
 
 ## Challenge
 Write a basic control script that commands a robot to approach the edge of any road, pause to confirm the path is clear (not if it were up to me), drive straight across to the opposite curb, and come to a complete stop insted of freaking out and moving.
@@ -85,7 +85,7 @@ In a PS5 controller:
 - **Comfort (1–5):** · **Would help me understand:** · **Explain-back with / date:** 
 
 ## Outcome
-- **Prompt sent:** [chat link] · **Produced:** [PR / files] · **First try?** · **Follow-ups:** · **Time:** 
+- **Prompt sent:** [chat link] · **Produced:** [PR / files] · **First try?** · **Follow-ups:** · **Time:** ~350 seconds
 - **Pluses:** 
 - **Deltas:** 
 - **AI mistakes caught:** 
