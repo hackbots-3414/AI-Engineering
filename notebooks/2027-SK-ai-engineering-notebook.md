@@ -1,6 +1,6 @@
 # 2026-11-23 — Create initial robot project
 
-**Author(s): SK** · **Type:** New · **Project:** Robot · **Prompt run by:** · **AI & model:** · **PR:** · **Status:** Drafting
+**Author(s): SK** · **Type:** New · **Project:** Robot · **Prompt run by:** MrZ· **AI & model:** Opus 5.5 High· **PR:** · **Status:** Drafting
 
 ## Challenge
 Drivetrain: We are going to be making a program which will allow the robot to Drive around. This program will be for the Drivetrain, which will help the Robot drive around.
