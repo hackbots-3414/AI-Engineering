@@ -73,7 +73,7 @@ Here are the Best practices for our Team: https://therekrab.github.io/frc-progra
 - **Comfort (1–5):** · **Would help me understand:** · **Explain-back with / date:** 
 
 ## Outcome
-- **Prompt sent:** [chat link] · **Produced:** [PR / files] · **First try?** · **Follow-ups:** · **Time:** 
+- **Prompt sent:** [chat link] · **Produced:** [PR / files] · **First try?** · **Follow-ups:** · **Time:** 48 seconds
 - **Pluses:** 
 - **Deltas:** 
 - **AI mistakes caught:** 
